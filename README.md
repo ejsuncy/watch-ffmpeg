@@ -1,6 +1,6 @@
 # watch-ffmpeg
 
-This docker image definition starts with [ffmpeg-alpine](https://hub.docker.com/r/jrottenberg/ffmpeg) and adds [inotify-tools](https://pkgs.alpinelinux.org/package/edge/main/x86/inotify-tools).
+This docker image definition starts with [ffmpeg-alpine](https://hub.docker.com/r/jrottenberg/ffmpeg) and adds [inotify-tools](https://pkgs.alpinelinux.org/package/edge/main/x86/inotify-tools) and curl.
 
 This will enable scripts to work like the following:
 
